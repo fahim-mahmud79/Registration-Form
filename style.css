@@ -164,6 +164,10 @@ form .buttons button{
 }
 
 @media (max-width: 550px) {
+    .container{
+        overflow-x: hidden;
+    }
+
     form .fields .input-field{
         width: 100%;
     }
